@@ -15,18 +15,7 @@ gallery:
     image_path: /assets/images/IMG_e6762.jpg
     alt: "placeholder IMG_e6762.jpg"
     title: "IMG_e6762.jpg title caption"
-  - url: /assets/images/
-    image_path: /assets/images/
-    alt: "placeholder "
-    title: " title caption"  
-  - url: /assets/images/
-    image_path: /assets/images/
-    alt: "placeholder "
-    title: " title caption"
-  - url: /assets/images/
-    image_path: /assets/images/
-    alt: "placeholder "
-    title: " title caption"    
+    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
