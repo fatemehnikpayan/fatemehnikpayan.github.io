@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "فاطمه نیک پایان راد"
+title                    : "fatemeh nikpayan rad"
 title_separator          : "-"
 name                     : "fatemeh" 
 description              : "Welcome to my web site."
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Fatemeh Nikpayan"
   avatar           : "/assets/images/Capture11.PNG"
-  bio              : I'm a student of Computer Engineering at IUST. 
+  bio              : I'm a Computer Engineering student at IUST. 
   location         : "Tehran"
   email            : fatemeh_nikpayan@comp.iust.ac.ir
   twitter: iatraa
