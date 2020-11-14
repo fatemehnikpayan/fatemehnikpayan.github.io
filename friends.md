@@ -8,10 +8,8 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
-
+### best friends
+* Kimia Ameli Fard
+* Setareh Norooz
 
 
