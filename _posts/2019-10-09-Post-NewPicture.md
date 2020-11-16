@@ -18,6 +18,5 @@ title: My favorite book
 
 ![alt text](../assets/images/1.jpg1.PNG "Picture")
 
-title: my favorite website 
-[my favorite website](http://www.google.com)
----
+ 
+
