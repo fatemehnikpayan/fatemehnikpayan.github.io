@@ -4,11 +4,11 @@ author_profile: true
 permalink: /links/
 title: Links
 tags: [Studying, courses]
-modified: 9-14-2019
+modified: 11-16-2020
 comments: false
 ---
 
 
 
-* [My university](http://vt.iust.ac.ir/)(http://www.iust.ac.ir/)
-
+* [My university](http://vt.iust.ac.ir/)
+* [My university website](http://www.iust.ac.ir/)
