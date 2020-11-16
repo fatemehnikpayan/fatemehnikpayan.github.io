@@ -11,7 +11,7 @@ comments: false
 
 |    |    | **Experience**                                                             |
 |----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
+|    |    |  |
 |----|----|-------------------------------------------------------------------------------|
 |2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
 |----|------|-------------------------------------------------------------------------------|
