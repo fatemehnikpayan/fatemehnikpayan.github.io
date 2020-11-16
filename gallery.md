@@ -15,7 +15,7 @@ gallery:
     image_path: /assets/images/IMG_E6762.JPG
     alt: "placeholder IMG_E6762.JPG"
     title: "IMG_E6762.JPG title caption"
-     - url: /assets/images/image-3.jpg
+  - url: /assets/images/image-3.jpg
     image_path: /assets/images/image-3.jpg
     alt: "placeholder image-3.jpg"
     title: "Image-3.jpg title caption" 
