@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /hobbies/
+permalink: //
 title: Hobbies
 tags: [Hoby]
 modified: 9-14-2019
