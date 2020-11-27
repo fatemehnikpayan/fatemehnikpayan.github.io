@@ -18,4 +18,9 @@ modified: 11-16-2020
 
 
  ![alt text](../assets/images/1.jpg1.PNG "Picture")
+---
+layout: posts
+title:plannin and managing time
+modified: 11-27-2020
+---
 
