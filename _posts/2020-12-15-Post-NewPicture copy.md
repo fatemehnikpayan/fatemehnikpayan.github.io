@@ -60,4 +60,4 @@ modified: 12-15-2020
 <br>
 
 
-![alt text](../assets/images/2020-12-09 20.25.47 (1).png "Picture")
+![alt text](../assets/images/2020-12-09 20.25.47(1).PNG "Picture")
