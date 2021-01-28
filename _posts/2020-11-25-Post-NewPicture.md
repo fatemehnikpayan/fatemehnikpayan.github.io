@@ -29,5 +29,5 @@ modified: 11-16-2020
 
 
 
- ![alt text](../assets/images/2.jpg1.PNG "Picture")
+ ![alt text](../assets/images/2.jpg "Picture")
 
