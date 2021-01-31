@@ -19,6 +19,10 @@ gallery:
     image_path: /assets/images/image-3.jpg
     alt: "placeholder image-3.jpg"
     title: "Image-3.jpg title caption" 
+     - url: /assets/images/image-3.jpg
+    image_path: /assets/images/at.jpg.jpg
+    alt: "placeholder image-3.jpg"
+    title: "Image-3.jpg title caption" 
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
